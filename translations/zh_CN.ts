@@ -69,32 +69,32 @@
     <message>
         <location filename="../tools/main.cpp" line="348"/>
         <source>Switch the user of this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>切换此计算机的用户</translation>
     </message>
     <message>
         <location filename="../tools/main.cpp" line="351"/>
         <source>Hibernate this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>使此计算机休眠</translation>
     </message>
     <message>
         <location filename="../tools/main.cpp" line="354"/>
         <source>Suspend this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>使此计算机睡眠</translation>
     </message>
     <message>
         <location filename="../tools/main.cpp" line="357"/>
         <source>Logout this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>注销此计算机</translation>
     </message>
     <message>
         <location filename="../tools/main.cpp" line="360"/>
         <source>Restart this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>重启此计算机</translation>
     </message>
     <message>
         <location filename="../tools/main.cpp" line="363"/>
         <source>Shutdown this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭此计算机</translation>
     </message>
     <message>
         <location filename="../tools/mainwindow.cpp" line="376"/>
